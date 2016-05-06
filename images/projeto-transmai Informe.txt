@@ -1,0 +1,187 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: projeto-transmai.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 960 px x 560 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:
+CicleGordita* (no instalada)
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Myriad Web Pro (OTF)
+Nirmala UI Semilight (OTF)
+Colaborate-Thin (OTF)
+Colaborate-Medium (OTF)
+Lane - Narrow (TrueType)
+Lane - Upper (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0992-monitor-cardiaco-emai-mod-mx-100.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 146,343 por 146,343 puntos 
+Resolución: 491,996 por 491,996 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0051-desfibrilador-emai-dx10.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 221,449 por 221,449 puntos 
+Resolución: 325,131 por 325,131 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0029-oximetro-emai-mx-300.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 240,961 por 240,961 puntos 
+Resolución: 298,803 por 298,803 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0244-ultrasson-piezoeletrico-soni-I-ortus.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 228,856 por 228,856 puntos 
+Resolución: 314,608 por 314,608 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0028-oximetro-emai-Oxp-10.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 238,879 por 238,879 puntos 
+Resolución: 301,408 por 301,408 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\Captura de pantalla 2016-04-28 11.26.53.png
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 3073K, 1366 por 768 píxeles
+Dimensiones: 631,067 por 354,802 puntos 
+Resolución: 155,85 por 155,85 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0992-monitor-cardiaco-emai-mod-mx-100.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 41,958 por 41,958 puntos 
+Resolución: 1716,021 por 1716,021 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0051-desfibrilador-emai-dx10.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 63,491 por 63,491 puntos 
+Resolución: 1134,016 por 1134,016 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0029-oximetro-emai-mx-300.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 69,085 por 69,085 puntos 
+Resolución: 1042,189 por 1042,189 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0244-ultrasson-piezoeletrico-soni-I-ortus.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 65,615 por 65,615 puntos 
+Resolución: 1097,316 por 1097,316 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0028-oximetro-emai-Oxp-10.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 68,488 por 68,488 puntos 
+Resolución: 1051,273 por 1051,273 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0992-monitor-cardiaco-emai-mod-mx-100.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 227,605 por 227,605 puntos 
+Resolución: 316,338 por 316,338 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0051-desfibrilador-emai-dx10.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 305,912 por 305,912 puntos 
+Resolución: 235,362 por 235,362 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0029-oximetro-emai-mx-300.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 386,898 por 386,898 puntos 
+Resolución: 186,096 por 186,096 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0244-ultrasson-piezoeletrico-soni-I-ortus.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 336,018 por 336,018 puntos 
+Resolución: 214,275 por 214,275 píxeles por pulgada
+
+
+C:\Users\Nicolas\Documents\jobs\transmai\links\0028-oximetro-emai-Oxp-10.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2929K, 1000 por 1000 píxeles
+Dimensiones: 361,445 por 361,445 puntos 
+Resolución: 199,2 por 199,2 píxeles por pulgada
